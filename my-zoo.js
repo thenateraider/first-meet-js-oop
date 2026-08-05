@@ -1,4 +1,3 @@
-
 class Animal {
     constructor(name, species) {
         this.name = name;
@@ -123,6 +122,7 @@ wolverine.makeSound();
 
 console.log("\n=== PART 3: EVENING FEEDING & REST TIME ===");
 console.log("The dinner bell rings across the zoo grounds.");
+
 leo.eat();
 baloo.eat();
 nemo.eat();
