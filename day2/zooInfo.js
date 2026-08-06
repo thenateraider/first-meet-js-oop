@@ -76,13 +76,8 @@ const zooPath = [
     description: "The food court smells like popcorn and fresh fruit.",
   },
 ];
-const zooName = "JSD13 Nate Zoo";
+
 export default {
-    Animal,
-    Tiger,
-    Elephant,
-    Wolf,
-    Rhino,
     animals,
     zooPath,
 }

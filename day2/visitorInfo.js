@@ -25,6 +25,5 @@ class Visitor {
 const visitors = new Visitor("Nate");
 
 export default{
-    Visitor,
     visitors
 }
