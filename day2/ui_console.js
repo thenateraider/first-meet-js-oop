@@ -55,7 +55,7 @@ function displayZoo() {
   console.log(zooMap);
 
   let currentVisiorPath = [];
-  for (let p = 0; p < 7; p++) {
+  for (let p = 0; p < zoo.zooPath.length; p++) {
     if (p === visitorInfo.visitors.position) {
       currentVisiorPath.push("👨")
     } else {
