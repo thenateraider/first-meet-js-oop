@@ -2,6 +2,7 @@
     "type":"module",
     "scripts":{
         "day1": "node day1/my-zoo.js",
-        "day2": "node day2/day-2-zoo.js"
+        "day2": "node day2/day-2-zoo.js",
+        "day3": "node --env-file=day3/.env day3/day-3-zoo.js"
     }
 }
